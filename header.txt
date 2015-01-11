@@ -1,4 +1,5 @@
 <head> 
 <p> I have background programming in C++, HTML, CSS, and Visual Basic. </p>
 <p> I have done A LOT of macros in Visual Basic working as an accountant to increase efficiency. </p>
+<p> I learned how to do a little web development from teamtreehouse.com and I came to enjoy making my own websites form doing it. </p>
 </head>
