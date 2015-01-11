@@ -1,3 +1,4 @@
 <head> 
 <p> I have background programming in C++, HTML, CSS, and Visual Basic. </p>
+<p> I have done A LOT of macros in Visual Basic working as an accountant to increase efficiency. </p>
 </head>
