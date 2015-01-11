@@ -1,4 +1,5 @@
 <head> 
 <p> I have background programming in C++, HTML, CSS, and Visual Basic. </p>
 <p> I have done A LOT of macros in Visual Basic working as an accountant to increase efficiency. </p>
+<p> A language that I would love to learn is python as well as expanding on C++ by learning DirectX. </p>
 </head>
